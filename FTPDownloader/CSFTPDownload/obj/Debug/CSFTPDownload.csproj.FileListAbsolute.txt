@@ -1,0 +1,11 @@
+W:\C# projects\1\C#\CSFTPDownload\obj\Debug\CSFTPDownload.MainForm.resources
+W:\C# projects\1\C#\CSFTPDownload\obj\Debug\CSFTPDownload.UICredentialsProvider.resources
+W:\C# projects\1\C#\CSFTPDownload\obj\Debug\CSFTPDownload.csproj.GenerateResource.Cache
+W:\C# projects\1\C#\Debug\FTP下载器.exe.config
+W:\C# projects\1\C#\Debug\FTP下载器.exe
+W:\C# projects\1\C#\Debug\FTP下载器.pdb
+W:\C# projects\1\C#\CSFTPDownload\obj\Debug\FTP下载器.exe
+W:\C# projects\1\C#\CSFTPDownload\obj\Debug\FTP下载器.pdb
+W:\C# projects\1\FTPDownloader\Debug\FTP下载器.exe.config
+W:\C# projects\1\FTPDownloader\CSFTPDownload\obj\Debug\FTP下载器.exe
+W:\C# projects\1\FTPDownloader\CSFTPDownload\obj\Debug\FTP下载器.pdb
